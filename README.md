@@ -7,13 +7,21 @@ A través de ocho mundos temáticos interactivos, los estudiantes exploran asign
 
 
 🚀 Características principales
+
 🎮 Aprendizaje basado en gamificación y narrativa inmersiva.
+
 🥽 Experiencias educativas en realidad virtual con Meta Quest.
+
 🤖 Inteligencia Artificial para retroalimentación personalizada.
+
 📊 Dashboard docente para seguimiento en tiempo real.
+
 🎯 Evaluaciones adaptativas según el nivel del estudiante.
+
 🌎 Contenido alineado al currículo educativo ecuatoriano y adaptable a Latinoamérica.
+
 🏆 Sistema de recompensas, logros, monedas e ítems personalizados.
+
 🛠️ Tecnologías
 
 Unity 3D
